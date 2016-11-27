@@ -1,9 +1,18 @@
 # Introduction
-This is the typical sequence to make changes to the Github repository via the Command Line.
-It assumes working in the `master` branch directly (which is only ok for top level changes only).
+This quick post captures two sets of info:
+- Quick Acces to Github Foratting Tips,
+- A recap of a typical sequence to make changes to the Github repository via the Command Line.
+
+# Github Formatting Tips
+Basics (that is almost eveything!) are available [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+Boxes for Todo Lists are created as instructed [there](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
+
+# Github sequence
+The following assumes working in the `master` branch directly (which is only ok for top level changes only).
 For more detailed updates (like Code, Documents, etc.) branching is recommended via `git branch` (cf. .
 
-# Summary
+## Summary
 TL;DR: The commands to use are:
 
     git pull -a
@@ -13,15 +22,14 @@ TL;DR: The commands to use are:
     git push origin master
 
 
-# Nominal Sequence on the Master Branch
-## First time
+## Nominal Sequence on the Master Branch
+### First time
 Move to the Local directory in which you want to work.
 Then, clone the Github repository there:
 
     git clone [the .git link of the repository you want]
 
-## Whenever you want to make changes
-
+### Whenever you want to make changes
 Pull all latest changes from the Server/Origin/Remote to your Local master repository:
 
     git pull -a
