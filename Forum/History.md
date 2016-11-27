@@ -1,9 +1,9 @@
 
 The MEC Project Kick-Off Meeting took place at a Pitcher & Piano Bar in the UK on the 2016 05 15.
-This was the Project Structure back then (cf. Fig. 1):
+This was the Project Structure back then :
 
-[Fig. 1]
+![Fig. 1](MEC/Images/MEC Project Structure 2016 05 15.png)
 
-This is the MEC Project Structure on the 2016 05 29 (cf. Fig. 2) :)
+This was the MEC Project Structure on the 2016 05 29 :
 
-[Fig. 2]
+![Fig. 2](MEC/Images/MEC Project Structure 2016 05 29.png)
