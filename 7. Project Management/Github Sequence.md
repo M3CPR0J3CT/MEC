@@ -1,6 +1,6 @@
 # Introduction
 This is the typical sequence to make changes to the Github repository via the Command Line.
-It assumes wirking in the `master` branch directly (which is only ok for top level changes only).
+It assumes working in the `master` branch directly (which is only ok for top level changes only).
 For more detailed updates (like Code, Documents, etc.) branching is recommended via `git branch` (cf. .
 
 # Summary
@@ -11,11 +11,12 @@ TL;DR: The commands to use are:
     git pull -a
     git commit -am "This is the commit message"
     git push origin master
-    
-    
+
+
 # Nominal Sequence on the Master Branch
 ## First time
-You need to Clone the repository:
+Move to the Local directory in which you want to work.
+Then, clone the Github repository there:
 
     git clone
 
@@ -51,6 +52,3 @@ Now they are locked and ready to be pushed back to the Server/Origin/Repository 
 Check that all is up-to-date:
 
     git status
-    
-    
-    
