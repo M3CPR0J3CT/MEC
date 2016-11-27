@@ -1,7 +1,8 @@
 # Todo
 
 [ ] Fix Figures and Add Snapshots
-[ ] Add DSM Master to Github.
+
+[] Add DSM Master to Github.
 
 # Matrix
 The provisional Design Structure Matrix (DSM) from Fig. 1 below is based on the Interactions Analysis and its Functions List.
