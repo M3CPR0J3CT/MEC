@@ -5,7 +5,7 @@ For more detailed updates (like Code, Documents, etc.) branching is recommended 
 
 # Summary
 TL;DR: The commands to use are:
-    
+
     git pull -a
     git add -A
     git pull -a
@@ -14,35 +14,42 @@ TL;DR: The commands to use are:
     
     
 # Nominal Sequence on the Master Branch
-First time only:
-    
-    # Clone the repo
+## First time
+You need to Clone the repository:
+
     git clone
 
-Then, whenever you want to provide a change:
-    
-    # Pull all latest changes from the Server/Origin/Remote to your Local master repository
+## Whenever you want to make changes
+
+Pull all latest changes from the Server/Origin/Remote to your Local master repository:
+
     git pull -a
 
-    # Check that all is up-to-date
+Check that all is up-to-date:
+
     git status
 
 Work on the files and create the changes.
 Once done, prepare their upload back to the Origin.
 
-    # See what has changed
+See what has changed:
+
     git status
 
-    # Add them to the list of changes to be uploaded
-     git add -A
+Add them to the list of changes to be uploaded:
 
-    # Commit these with a Message to let others know what you did (the following command proceeds by batch, proceed separately for detailed changes)
+    git add -A
+
+Commit these with a Message to decribe what you did (the following command proceeds by batch, proceed separately for detailed changes):
+
     git commit -am "This is the commit message describing the changes".
 
-    # Now they are locked and ready to be pushed back to the Server/Origin/Repository (remember, we worked in a Local copy of the `master`branch directly in this case):
+Now they are locked and ready to be pushed back to the Server/Origin/Repository (remember, we worked in a Local copy of the `master`branch directly in this case):
+
     git push -a
 
-    # Check that all is up-to-date
+Check that all is up-to-date:
+
     git status
     
     
