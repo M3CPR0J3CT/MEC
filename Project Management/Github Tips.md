@@ -10,7 +10,16 @@ Boxes for Todo Lists are created as instructed [there](https://github.com/blog/1
 
 # Github sequence
 The following assumes working in the `master` branch directly (which is only ok for top level changes only).
-For more detailed updates (like Code, Documents, etc.) branching is recommended via `git branch` (cf. .
+
+**Note: This is note the proper Github way to do**
+Because it is lightweight, it better to Branch early and often for any isolated change or bunch of changes.
+
+This allows for changes to be *discussed* during the Pull Request process vs. being implemented directly.
+
+As a reminder Branching and the Standard Github Flow are recaped [here](https://guides.github.com/introduction/flow/)
+
+
+For more detailed updates (like Code, Documents, etc.) branching is recommended via `git branch`.
 
 ## Summary
 TL;DR: The commands to use are:
