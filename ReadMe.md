@@ -1,4 +1,7 @@
 # Welcome to Project MEC
+
+![Welcome!](https://github.com/M3CPR0J3CT/MEC/blob/master/Images/Welcome.png)
+
 The M3C Project was born in 2016 in the United Kingdom.
 
 It all started from a discussion on Programming and the Pros and Cons of Arduino and Raspberry Pi.
