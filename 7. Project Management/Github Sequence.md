@@ -18,7 +18,7 @@ TL;DR: The commands to use are:
 Move to the Local directory in which you want to work.
 Then, clone the Github repository there:
 
-    git clone
+    git clone [the .git link of the repository you want]
 
 ## Whenever you want to make changes
 
