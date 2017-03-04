@@ -5,6 +5,7 @@ tags: Maker, Rules, Ethics
 ---
 
 ![](Media/TheMakersBillofRights.jpg)
+
 The Maker's Bill of Rights (drafted by Mister Jalopy, with assistance from Phillip Torrone and Simon Hill).
 
 
