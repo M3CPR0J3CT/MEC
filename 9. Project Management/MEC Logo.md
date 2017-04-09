@@ -5,7 +5,7 @@ Votes will take place offline.
 # Mono
 ## Black
 
-![](MECLogo1Black.png)
+![](/Media/MMECLogo1Black.png)
 Logo 1
 
 ![](/Media/MECLogo2Black.png)
