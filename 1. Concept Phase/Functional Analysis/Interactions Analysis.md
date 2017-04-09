@@ -16,7 +16,7 @@ The following terms and conventions are used in the Analysis:
 ## Interactions Diagram
 The Interactions between MEC and its Operational Environment are provided on Fig. 1 below.
 
-![]("MEC Interaction Diagram 2016 05 30.png")
+![](/"MEC Interaction Diagram 2016 05 30.png")
 MEC Interactions Diagram
 
 ## Operational Environment Items
