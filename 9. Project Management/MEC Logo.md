@@ -2,23 +2,7 @@ This section is a Showcase for the MEC Logo.
 Votes will take place offline.
 
 
-# Mono
-## Black
-
-![](/Media/MMECLogo1Black.png)
-Logo 1
-
-![](/Media/MECLogo2Black.png)
-Logo 2
-
-![](/Media/MECLogo3Black.png)
-Logo 3
-
-![](/Media/MECLogo4Black.png)
-Logo 4
-
-
-## White
+# Mono White
 
 ![](/Media/MECLogo1White.png)
 Logo 1
@@ -30,4 +14,19 @@ Logo 2
 Logo 3
 
 ![](/Media/MECLogo4White.png)
+Logo 4
+
+
+# Mono Black
+
+![](/Media/MECLogo1Black.png)
+Logo 1
+
+![](/Media/MECLogo2Black.png)
+Logo 2
+
+![](/Media/MECLogo3Black.png)
+Logo 3
+
+![](/Media/MECLogo4Black.png)
 Logo 4
