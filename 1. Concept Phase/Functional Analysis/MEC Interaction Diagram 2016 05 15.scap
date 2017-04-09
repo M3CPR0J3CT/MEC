@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScappleDocument Version="1.1" ID="9BA47E0E-A0A2-484C-9DFC-8A74DD4CB138">
+    <Notes>
+        <Note ID="0" FontSize="12.0" Position="621.0,379.0" Width="30.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>MEC</String>
+            <ConnectedNoteIDs>1-11, 18, 21-22, 25-27, 54</ConnectedNoteIDs>
+            <PointsToNoteIDs>1, 6, 11</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,3</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="479.645901,162.899351" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Pilot</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+            <PointsToNoteIDs>0</PointsToNoteIDs>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="992.933847,401.237013" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Rain</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="381.850852,202.224838" Width="110.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Remote Control</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="964.303644,363.9146" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Wind</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="960.9244,319.865989" Width="30.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Sun</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="620.765432,126.0" Width="30.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Air</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="785.648742,178.0" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Launch Pad</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="707.663555,153.000812" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Ground</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="838.068156,730.207403" Width="110.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Flying Objects</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="886.678166,544.298701" Width="124.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Terrain Features</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="324.445312,266.191406" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.747881 0.366532 0.542813</Border>
+                <Fill>0.918452 0.807302 0.863467</Fill>
+            </Appearance>
+            <String>Terminal</String>
+            <ConnectedNoteIDs>0, 30-32</ConnectedNoteIDs>
+            <PointsToNoteIDs>0</PointsToNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="223.0,402.0" Width="110.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Test Equipment</String>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="465.935378,506.959105" Width="95.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Power Source</String>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="419.0,422.0" Width="74.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Container</String>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="533.935378,534.959105" Width="131.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mission Equipment</String>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="873.701299,574.336851" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>GPS Signal</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="433.0,457.0" Width="146.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Recording Equipment</String>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="634.495177,560.50598" Width="139.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Standard Equipment</String>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="969.561282,435.0" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Water</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="906.497802,674.482108" Width="102.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>EMC Agressors</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="901.457386,277.149554" Width="88.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Temperature</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="950.702922,467.614042" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Humidity</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="927.620942,500.265219" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Dust</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="522.132711,252.0" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F2</String>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="605.936413,212.445988" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F3</String>
+        </Note>
+        <Note ID="30" FontSize="12.0" Position="189.0,113.0" Width="30.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>GPS</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="189.0,141.0" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Controls</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="32" FontSize="12.0" Position="189.0,169.0" Width="30.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>FPV</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="416.0,291.0" Width="124.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mission Planning</String>
+        </Note>
+        <Note ID="35" FontSize="12.0" Position="416.0,319.0" Width="117.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Functional Test</String>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="416.0,347.0" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Datalink</String>
+        </Note>
+        <Note ID="40" FontSize="12.0" Position="522.132711,224.0" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F1</String>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="605.798295,240.0" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F4</String>
+        </Note>
+        <Note ID="43" FontSize="12.0" Position="683.913352,209.166396" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F6</String>
+        </Note>
+        <Note ID="44" FontSize="12.0" Position="383.066406,16.976562" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F</String>
+        </Note>
+        <Note ID="45" FontSize="12.0" Position="700.280641,283.364854" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F7</String>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="453.409395,228.371652" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F</String>
+        </Note>
+        <Note ID="47" FontSize="12.0" Position="453.667208,256.098214" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F</String>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="424.0,681.0" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F</String>
+        </Note>
+        <Note ID="49" FontSize="12.0" Position="517.0,783.0" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F</String>
+        </Note>
+        <Note ID="50" FontSize="12.0" Position="517.0,755.0" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F</String>
+        </Note>
+        <Note ID="51" FontSize="12.0" Position="517.0,727.0" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F</String>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="516.742188,699.273438" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F</String>
+        </Note>
+        <Note ID="53" FontSize="12.0" Position="605.798295,268.0" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F5</String>
+        </Note>
+        <Note ID="54" FontSize="12.0" Position="858.956981,219.298701" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Regulation</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="55" FontSize="12.0" Position="789.174961,273.534336" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F8</String>
+        </Note>
+        <Note ID="56" FontSize="12.0" Position="799.461039,319.443791" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F9</String>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="824.87386,345.516645" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F10</String>
+        </Note>
+        <Note ID="58" FontSize="12.0" Position="858.157265,370.0" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F11</String>
+        </Note>
+        <Note ID="59" FontSize="12.0" Position="882.178166,394.048093" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F12</String>
+        </Note>
+        <Note ID="60" FontSize="12.0" Position="683.61299,237.215393" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F13</String>
+        </Note>
+        <Note ID="61" FontSize="12.0" Position="877.124594,419.0" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F14</String>
+        </Note>
+        <Note ID="62" FontSize="12.0" Position="860.986404,442.645495" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F15</String>
+        </Note>
+        <Note ID="63" FontSize="12.0" Position="847.0,472.0" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>MEC.F16</String>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <Stacks>
+        <Stack>29, 42, 53</Stack>
+        <Stack>30-32</Stack>
+        <Stack>34-35, 37</Stack>
+        <Stack>40, 28</Stack>
+        <Stack>43, 60</Stack>
+        <Stack>50, 49</Stack>
+        <Stack>52, 51</Stack>
+    </Stacks>
+    <AutoFit>0-11, 13-15, 17-22, 25-32, 34-35, 37, 40, 42-63</AutoFit>
+    <NoteStyles>
+        <Style Name="Blue Bubble" ID="E1161840-6E27-478B-96A0-F1F9F5FB10AE" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="AB7FF472-ABB7-420C-8EFB-9D4A45328B25" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="6EA56554-E0F9-430B-8043-C0E47EE2944A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882328 0.80198</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="066809FA-9219-4F1B-A03B-5D9F47B42E49" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="8EA5C377-3713-4FF7-A526-FFC87A85180B" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="76DD8322-B9DD-42F2-A9DB-3D229C80B479" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Yellow Bubble" ID="C5A33A05-D6BD-4A77-8557-5B340C643670" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.901961 0.901961 0.901961</BackgroundColor>
+        <DefaultFont>Menlo</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
