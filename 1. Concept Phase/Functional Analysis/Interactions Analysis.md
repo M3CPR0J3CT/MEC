@@ -16,12 +16,14 @@ The following terms and conventions are used in the Analysis:
 ## Interactions Diagram
 The Interactions between MEC and its Operational Environment are provided on Fig. 1 below.
 
-[Fig. 1] MEC Interactions Diagram
+![](MEC Interaction Diagram 2016 05 30.png)
+MEC Interactions Diagram
 
 ## Operational Environment Items
-The Table 2 below lists the Items called by Fig. 1. This is for future reference only.
+The Table 2 below lists the Items called by the above Figure. This is for future reference only.
 
-ITEM
+| ITEM |
+| --- |
 Air
 Ground
 Launch Pad
@@ -45,52 +47,53 @@ Generic Operational Equipment
 Mission-Specific Operational Equipment
 Core Operational Equipment
 Power Source
-[Table 2] MEC Operational Environment Items
+
 
 ## Functions
 The Functions resulting from the Interactions between MEC and its environment are defined in Table 1 hereunder.
 
-FUNCTION     DESCRIPTION
-MEC.F1     To operate under Pilot supervision.
-MEC.F2     To be safe at all times.
-MEC.F3     To fly in the Air manually.
-MEC.F4     To fly in the Air autonomously.
-MEC.F5     To capture images of the Flight.
-MEC.F6     To capture images of the Ground in flight.
-MEC.F7     To start and terminate mission on a Launch Pad.
-MEC.F8     To comply with the applicable Regulation.
-MEC.F9     To operate at all Season’s.
-MEC.F10     To survive direct Solar Flow for the duration of the Flight.
-MEC.F11     To operate in a typical windy day.
-MEC.F12     To survive moderate rain conditions happening during the Flight.
-MEC.F13     To survive a Crash.
-MEC.F14     To float on Water.
-MEC.F15     To be hermetically sealed.
-MEC.F16     To handle Dust and minor projections at Take-Off and Landing.
-MEC.F17     To resist EMC Agressors.
-MEC.F18     To detect Terrain Features.
-MEC.F19     To provide Obstacle Avoidance capabilities.
-MEC.F20     To detect Flying Objects.
-MEC.F21     To acquire GPS Signal
-MEC.F22     To carry Generic Operational Equipment in flight.
-MEC.F23     To allow for Level 1 Maintenance of Generic Operational Equipment.
-MEC.F24     To carry additional Mission-Specific Operational Equipment in flight as required.
-MEC.F25     To allow for Level 1 Maintenance of Mission-Specific Operational Equipment.
-MEC.F26     To carry Core Operational Equipment in flight.
-MEC.F27     To allow for Level 2 and 3 Maintenance of the Core Operational Equipment.
-MEC.F28     To operate on a reusable Power-Source.
-MEC.F29     To be transportable by road in a Transportation Container.
-MEC.F30     To provide a Built-In Test Capability.
-MEC.F31     To provide a Built-In Plus Test Capability.
-MEC.F32     To allow for Mission Data Files Transfers from/to the Terminal.
-MEC.F33     To transmit Flight Parameters to the Terminal.
-MEC.F34     To transmit Position to the Terminal.
-MEC.F35     To transmit System Status to the Terminal.
-MEC.F36     To transmit First Person Views to the Terminal.
-MEC.F37     To emit Analog Signals in case of Crash.
-MEC.F38     To provide an Abort function for the Pilot to recover Manual Remote Control during an Automatic Flight at any time.
-MEC.F39     To provide a Fail Safe Mode.
-[Table 1] MEC Functions
+FUNCTION | DESCRIPTION
+--- | --- |
+MEC.F1 | To operate under Pilot supervision.
+MEC.F2 | To be safe at all times.
+MEC.F3 | To fly in the Air manually.
+MEC.F4 | To fly in the Air autonomously.
+MEC.F5 | To capture images of the Flight.
+MEC.F6 | To capture images of the Ground in flight.
+MEC.F7 | To start and terminate mission on a Launch Pad.
+MEC.F8 | To comply with the applicable Regulation.
+MEC.F9 | To operate at all Season’s.
+MEC.F10 | To survive direct Solar Flow for the duration of the Flight.
+MEC.F11 | To operate in a typical windy day.
+MEC.F12 | To survive moderate rain conditions happening during the Flight.
+MEC.F13 | To survive a Crash.
+MEC.F14 | To float on Water.
+MEC.F15 | To be hermetically sealed.
+MEC.F16 | To handle Dust and minor projections at Take-Off and Landing.
+MEC.F17 | To resist EMC Agressors.
+MEC.F18 | To detect Terrain Features.
+MEC.F19 | To provide Obstacle Avoidance capabilities.
+MEC.F20 | To detect Flying Objects.
+MEC.F21 | To acquire GPS Signal
+MEC.F22 | To carry Generic Operational Equipment in flight.
+MEC.F23 | To allow for Level 1 Maintenance of Generic Operational Equipment.
+MEC.F24 | To carry additional Mission-Specific Operational Equipment in flight as required.
+MEC.F25 | To allow for Level 1 Maintenance of Mission-Specific Operational Equipment.
+MEC.F26 | To carry Core Operational Equipment in flight.
+MEC.F27 | To allow for Level 2 and 3 Maintenance of the Core Operational Equipment.
+MEC.F28 | To operate on a reusable Power-Source.
+MEC.F29 | To be transportable by road in a Transportation Container.
+MEC.F30 | To provide a Built-In Test Capability.
+MEC.F31 | To provide a Built-In Plus Test Capability.
+MEC.F32 | To allow for Mission Data Files Transfers from/to the Terminal.
+MEC.F33 | To transmit Flight Parameters to the Terminal.
+MEC.F34 | To transmit Position to the Terminal.
+MEC.F35 | To transmit System Status to the Terminal.
+MEC.F36 | To transmit First Person Views to the Terminal.
+MEC.F37 | To emit Analog Signals in case of Crash.
+MEC.F38 | To provide an Abort function for the Pilot to recover Manual Remote Control during an Automatic Flight at any time.
+MEC.F39 | To provide a Fail Safe Mode.
+
 
 ## Functional Considerations
 ### Fail Safe Mode
@@ -99,6 +102,7 @@ MEC.F39 refers to situations where Communication with MEC is lost or an anomaly 
 MEC Fail Conditons need to be defined to close this component. TBU.
 
 ## Parameters Identified
+
 - Flight Duration: Open
 - Temperature Range: Open
 - Wind Range: Open
@@ -109,8 +113,8 @@ MEC Fail Conditons need to be defined to close this component. TBU.
 - Launch Pad Coordinates to be recorded at Take-Off: Open
 
 # Review and Comments
-G 2016 05 30
+2016 05 30
 I have completed Fig. 1, Table 1 and Table 2. Feel free to leave your comments/questions below.
 
-B 2016 07 06
-This is very impressive! We need to print this and put it on the wall of the mannex for reference and to keep us on track. 
+2016 07 06
+This is very impressive! We need to print this and put it on the wall of the mannex for reference and to keep us on track.
