@@ -1,5 +1,4 @@
-This section is a Showcase for the MEC Logo.
-Votes will take place offline.
+This section is a Showcase of the MEC Logo.
 
 
 # Mono White
