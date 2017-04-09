@@ -4,22 +4,14 @@
 1
 
 
-![](/"Aero Draft 2.png")
+![](/AeroDraft2.png)
 
 2
 
+![](~/AeroDraft2.png)
 
-![](/Aero Draft 2.png)
 
 3
-
-
-![](~/"Aero Draft 2.png")
-
-4
-
-![](~/Aero Draft 2.png)
-
-
+![](AeroDraft2.png)
 
 | ITEM | REQ. ID | REQUIREMENT | DEISGN OPTIONS | DOWN-SELECTION | JUSTIFICATION |
