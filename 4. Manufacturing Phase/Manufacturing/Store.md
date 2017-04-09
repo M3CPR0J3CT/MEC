@@ -2,6 +2,11 @@
 This page is dedicated to the Store Management
 
 
+| Test | Test |
+| 1 | 2 |
+
+
+
 
 | DATE | IN / OUT | DESIGNATION | P/N | QTY. | VALUE |
 | :--- | :-- : | :---: | :---: | :---: | :---: |
