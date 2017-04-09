@@ -1,4 +1,6 @@
+# Purpose
 This page is dedicated to the Store Management
+
 
 
 | DATE | IN / OUT | DESIGNATION | P/N | QTY. | VALUE | 
