@@ -58,20 +58,10 @@
 Unless stated otherwise, all Units used within the Project comply with the International System of Units (ISU) consists of a set of base units, a set of derived units with special names, and a set of decimal-based multipliers that are used as prefixes. [Read More](https://en.wikipedia.org/wiki/International_System_of_Units#Writing_unit_symbols_and_the_values_of_quantities)
 
 ## Reference Documents
-References to documentations could be noted as follows:
-
-[RD1] Doc Title, REF. XXX Rev. 01
+References to documentations could be noted as '[RD1] Doc Title, REF. XXX Rev. 01'
 
 
 # Definitions
-## Communications
-Duplex     Transmitting and Receiving at the same time
-
-Half Duplex     Transmitting or Receiving
-
-Simplex     One-Way Communication
-
-
 ## Maintenance Levels
 | Maintenance Level | Description |
 | :--- | :--- |
