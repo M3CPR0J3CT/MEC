@@ -1,6 +1,7 @@
 # MEC Programme Reviews Log
 
 | DATE | LOC. | AGENDA |
+| :---: | :---: | :--- |
 | 2016 05 15 | MEC HQ | MEC Kick-Off. Define working platform and collaborative work principles. Identify main work packages. Create Notebooks. Initiate Project Plan. |
 | 2016 05 29 | MEC HQ | Review Notebooks structure and hierarchy. Discuss topics open since the 2016 05 15 Session.
 Review recently created content. Create Stacks and align Evernote Notebooks with the Project Plan. Review open actions. |
