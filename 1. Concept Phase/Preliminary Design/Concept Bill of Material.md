@@ -4,7 +4,7 @@ Power Distribution Board
 Battery
 Radalt
 Digital Flight Data Recorder
-Flight Controller (with Inertial Measurement Unit)
+Flight Controller Unit (with Inertial Measurement Unit)
 Raspberry Pi Zero
 Speed Controller 1
 Speed Controller 2
