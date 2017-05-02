@@ -1,9 +1,20 @@
+This document offers a simple Timeline of some Key Events in the life of the Project.
 
-The MEC Project Kick-Off Meeting took place at a Pitcher & Piano Bar in the UK on the 2016 05 15.
-This was the Project Structure back then :
+## 2016 05 15
+MEC Kick-Off Meeting at the Head Quarters and initial Project Structure.
 
-![Fig. 1](https://github.com/M3CPR0J3CT/MEC/blob/master/Images/MEC%20Project%20Structure%202016%2005%2015.png)
+![Project Structure 2016 05 29](https://github.com/M3CPR0J3CT/MEC/blob/master/Images/MEC%20Project%20Structure%202016%2005%2015.png)
 
-This was the MEC Project Structure on the 2016 05 29 :
 
-![Fig. 2](https://github.com/M3CPR0J3CT/MEC/blob/master/Images/MEC%20Project%20Structure%202016%2005%2029.png)
+
+## 2016 05 29
+Major reorganisation of the Project Structure.
+
+![Project Structure 2016 05 29](https://github.com/M3CPR0J3CT/MEC/blob/master/Images/MEC%20Project%20Structure%202016%2005%2029.png)
+
+
+
+## 2017 05 02
+The MEC Programme gets its 100th Github Commit!
+
+![Happy 100th Commit MEC!](https://github.com/M3CPR0J3CT/MEC/blob/master/Images/Git100.png)
