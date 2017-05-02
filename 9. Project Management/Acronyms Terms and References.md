@@ -8,7 +8,9 @@
 | DFDR | Digital Flight Data Recorder |
 | DL | Data Link |
 | DSM | Design Structure Matrix |
+| ESC | Electronic Speed Controller |
 | FAST | Function Analysis System Technique |
+| FCU | Flight Controller Unit |
 | FR | France |
 | FPV | First Person View |
 | GPS | Global Positioning System |
