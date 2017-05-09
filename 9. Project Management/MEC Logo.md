@@ -29,3 +29,8 @@ Logo 3
 
 ![](/Media/MECLogo4Black.png)
 Logo 4
+
+
+# Initial Drafts
+
+![](/Media/Logo/MECLogoDrafts20160619.jpg)

@@ -4,11 +4,15 @@ Having received the Starter Kit alongside the Zero, the question came to me: Wha
 From an electrical perspective, Female and Male headers are identical - their purpose.
 From a Mechanical and Load Factor, a Female Header rack will probably be stronger and less sensitive to shocks and Vibrations than its Male counterpart.
 
-[Fig. 1] GPIO Female Header
+![](/Media/GPIOFemaleHeader.jpg)
+GPIO Female Header
+
 
 But from a Moisture and Dust Ingress viewpoint, the Female Header may be more vulnerable.
 
-[Fig. 2] GPIO Male Header
+![](/Media/GPIOMaleHeader.jpg)
+GPIO Male Header
+
 
 As a first guess, I would go for Female Headers on the Pi or Zero and protect it in a (bottom) vented shield (cf. MEC.F9, 12 and 16).
 We already have both Jumper Wires anyway.
